@@ -1,0 +1,14 @@
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\bin\Debug\net8.0\LibraryManager.exe
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\bin\Debug\net8.0\LibraryManager.deps.json
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\bin\Debug\net8.0\LibraryManager.runtimeconfig.json
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\bin\Debug\net8.0\LibraryManager.dll
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\bin\Debug\net8.0\LibraryManager.pdb
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\obj\Debug\net8.0\LibraryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\obj\Debug\net8.0\LibraryManager.AssemblyInfoInputs.cache
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\obj\Debug\net8.0\LibraryManager.AssemblyInfo.cs
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\obj\Debug\net8.0\LibraryManager.csproj.CoreCompileInputs.cache
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\obj\Debug\net8.0\LibraryManager.dll
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\obj\Debug\net8.0\refint\LibraryManager.dll
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\obj\Debug\net8.0\LibraryManager.pdb
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\obj\Debug\net8.0\LibraryManager.genruntimeconfig.cache
+C:\Users\ARMAN\OneDrive\Desktop\LibraryManager\LibraryManager\obj\Debug\net8.0\ref\LibraryManager.dll
