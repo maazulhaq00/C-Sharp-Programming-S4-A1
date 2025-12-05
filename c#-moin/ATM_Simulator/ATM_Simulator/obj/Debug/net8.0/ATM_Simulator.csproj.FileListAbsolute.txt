@@ -1,0 +1,14 @@
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\bin\Debug\net8.0\ATM_Simulator.exe
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\bin\Debug\net8.0\ATM_Simulator.deps.json
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\bin\Debug\net8.0\ATM_Simulator.runtimeconfig.json
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\bin\Debug\net8.0\ATM_Simulator.dll
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\bin\Debug\net8.0\ATM_Simulator.pdb
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\obj\Debug\net8.0\ATM_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\obj\Debug\net8.0\ATM_Simulator.AssemblyInfoInputs.cache
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\obj\Debug\net8.0\ATM_Simulator.AssemblyInfo.cs
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\obj\Debug\net8.0\ATM_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\obj\Debug\net8.0\ATM_Simulator.dll
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\obj\Debug\net8.0\refint\ATM_Simulator.dll
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\obj\Debug\net8.0\ATM_Simulator.pdb
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\obj\Debug\net8.0\ATM_Simulator.genruntimeconfig.cache
+C:\Users\ARMAN\OneDrive\Desktop\ATM_Simulator\ATM_Simulator\obj\Debug\net8.0\ref\ATM_Simulator.dll
